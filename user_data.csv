@@ -1,0 +1,10 @@
+Email,Ticker,Average,Percentage Change,Highest,Lowest
+wenwen,1155.KL,"Ticker
+1155.KL    10.14
+dtype: float64","Ticker
+1155.KL    0.0
+Name: 2024-12-12 00:00:00, dtype: float64","Ticker
+1155.KL    10.14
+dtype: float64","Ticker
+1155.KL    10.14
+dtype: float64"
